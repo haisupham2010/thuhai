@@ -1,0 +1,30 @@
+
+class = tron_cilen4
+anh_bon   left : 1519/360px, 1024px/160px, 736px/30px
+anh_motx  left : 1519/220px,  1024/20px  , 736px/30px
+anh_haix  left: 1519/260px ,  1024/80   ,  736px/40
+
+if (change < 750){
+
+anh_bon   left : 750/
+    top: 830px;
+    left: 210px; 
+                500/
+      top: 830px;
+    left: 100px;  
+
+              432/
+              
+                        
+
+anh_motx  left : 
+
+
+
+
+anh_haix  left: 
+
+
+  }
+
+
